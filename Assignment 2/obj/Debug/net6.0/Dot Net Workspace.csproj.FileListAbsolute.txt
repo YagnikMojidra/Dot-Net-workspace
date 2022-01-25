@@ -1,0 +1,30 @@
+F:\Collage msu baroda\BE SEM 6\Dot Net Techologies\Dot Net Workspace\bin\Debug\net6.0\Dot Net Workspace.exe
+F:\Collage msu baroda\BE SEM 6\Dot Net Techologies\Dot Net Workspace\bin\Debug\net6.0\Dot Net Workspace.deps.json
+F:\Collage msu baroda\BE SEM 6\Dot Net Techologies\Dot Net Workspace\bin\Debug\net6.0\Dot Net Workspace.runtimeconfig.json
+F:\Collage msu baroda\BE SEM 6\Dot Net Techologies\Dot Net Workspace\bin\Debug\net6.0\Dot Net Workspace.dll
+F:\Collage msu baroda\BE SEM 6\Dot Net Techologies\Dot Net Workspace\bin\Debug\net6.0\ref\Dot Net Workspace.dll
+F:\Collage msu baroda\BE SEM 6\Dot Net Techologies\Dot Net Workspace\bin\Debug\net6.0\Dot Net Workspace.pdb
+F:\Collage msu baroda\BE SEM 6\Dot Net Techologies\Dot Net Workspace\obj\Debug\net6.0\Dot Net Workspace.csproj.AssemblyReference.cache
+F:\Collage msu baroda\BE SEM 6\Dot Net Techologies\Dot Net Workspace\obj\Debug\net6.0\Dot Net Workspace.GeneratedMSBuildEditorConfig.editorconfig
+F:\Collage msu baroda\BE SEM 6\Dot Net Techologies\Dot Net Workspace\obj\Debug\net6.0\Dot Net Workspace.AssemblyInfoInputs.cache
+F:\Collage msu baroda\BE SEM 6\Dot Net Techologies\Dot Net Workspace\obj\Debug\net6.0\Dot Net Workspace.AssemblyInfo.cs
+F:\Collage msu baroda\BE SEM 6\Dot Net Techologies\Dot Net Workspace\obj\Debug\net6.0\Dot Net Workspace.csproj.CoreCompileInputs.cache
+F:\Collage msu baroda\BE SEM 6\Dot Net Techologies\Dot Net Workspace\obj\Debug\net6.0\Dot Net Workspace.dll
+F:\Collage msu baroda\BE SEM 6\Dot Net Techologies\Dot Net Workspace\obj\Debug\net6.0\ref\Dot Net Workspace.dll
+F:\Collage msu baroda\BE SEM 6\Dot Net Techologies\Dot Net Workspace\obj\Debug\net6.0\Dot Net Workspace.pdb
+F:\Collage msu baroda\BE SEM 6\Dot Net Techologies\Dot Net Workspace\obj\Debug\net6.0\Dot Net Workspace.genruntimeconfig.cache
+F:\Collage msu baroda\BE SEM 6\Dot Net Techologies\Dot Net Workspace\Assignment 2\bin\Debug\net6.0\Dot Net Workspace.exe
+F:\Collage msu baroda\BE SEM 6\Dot Net Techologies\Dot Net Workspace\Assignment 2\bin\Debug\net6.0\Dot Net Workspace.deps.json
+F:\Collage msu baroda\BE SEM 6\Dot Net Techologies\Dot Net Workspace\Assignment 2\bin\Debug\net6.0\Dot Net Workspace.runtimeconfig.json
+F:\Collage msu baroda\BE SEM 6\Dot Net Techologies\Dot Net Workspace\Assignment 2\bin\Debug\net6.0\Dot Net Workspace.dll
+F:\Collage msu baroda\BE SEM 6\Dot Net Techologies\Dot Net Workspace\Assignment 2\bin\Debug\net6.0\ref\Dot Net Workspace.dll
+F:\Collage msu baroda\BE SEM 6\Dot Net Techologies\Dot Net Workspace\Assignment 2\bin\Debug\net6.0\Dot Net Workspace.pdb
+F:\Collage msu baroda\BE SEM 6\Dot Net Techologies\Dot Net Workspace\Assignment 2\obj\Debug\net6.0\Dot Net Workspace.csproj.AssemblyReference.cache
+F:\Collage msu baroda\BE SEM 6\Dot Net Techologies\Dot Net Workspace\Assignment 2\obj\Debug\net6.0\Dot Net Workspace.GeneratedMSBuildEditorConfig.editorconfig
+F:\Collage msu baroda\BE SEM 6\Dot Net Techologies\Dot Net Workspace\Assignment 2\obj\Debug\net6.0\Dot Net Workspace.AssemblyInfoInputs.cache
+F:\Collage msu baroda\BE SEM 6\Dot Net Techologies\Dot Net Workspace\Assignment 2\obj\Debug\net6.0\Dot Net Workspace.AssemblyInfo.cs
+F:\Collage msu baroda\BE SEM 6\Dot Net Techologies\Dot Net Workspace\Assignment 2\obj\Debug\net6.0\Dot Net Workspace.csproj.CoreCompileInputs.cache
+F:\Collage msu baroda\BE SEM 6\Dot Net Techologies\Dot Net Workspace\Assignment 2\obj\Debug\net6.0\Dot Net Workspace.dll
+F:\Collage msu baroda\BE SEM 6\Dot Net Techologies\Dot Net Workspace\Assignment 2\obj\Debug\net6.0\ref\Dot Net Workspace.dll
+F:\Collage msu baroda\BE SEM 6\Dot Net Techologies\Dot Net Workspace\Assignment 2\obj\Debug\net6.0\Dot Net Workspace.pdb
+F:\Collage msu baroda\BE SEM 6\Dot Net Techologies\Dot Net Workspace\Assignment 2\obj\Debug\net6.0\Dot Net Workspace.genruntimeconfig.cache
