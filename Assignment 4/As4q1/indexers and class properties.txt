@@ -1,0 +1,4 @@
+1)) https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/properties
+
+
+2))) https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/indexers/using-indexers
